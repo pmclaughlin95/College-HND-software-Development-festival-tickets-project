@@ -1,0 +1,8 @@
+Customer's Name:  Paul McLaughlin
+Telephone Number: 0079686959569
+Date: 26 April 2018
+Number of tickets:  5
+Concert:  Europe
+Credit Card: Visa
+Handling charge: £ 1.5
+Post and Packaging charge: £ 1.75
